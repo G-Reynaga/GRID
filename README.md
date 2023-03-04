@@ -1,1 +1,1 @@
-#Una pequeña practica de GRID
+Una pequeña practica de GRID
